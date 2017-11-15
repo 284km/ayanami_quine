@@ -1,5 +1,5 @@
 
-ayaanmi_quine
+ayanami_quine
 =============
 
 
